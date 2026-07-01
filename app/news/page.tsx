@@ -28,6 +28,13 @@ export default function NewsPage() {
         "Nebula Knights has signed a new team for the upcoming season. Welcome to the family.",
       image: "/news/news4.png",
     },
+    {
+      title: "Galaxia wins the first game of the Level za League",
+      date: "01 July 2026",
+      description:
+        "Galaxia secured a victory in the first game of the Level za League, demonstrating their competitive spirit and taking the win 3-0 against Siren Eclips.",
+      image: "/news/news5.png",
+    },
   ];
 
   return (
