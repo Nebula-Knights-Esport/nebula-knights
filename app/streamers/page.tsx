@@ -53,7 +53,6 @@ export default function StreamersPage() {
   return (
     <main className="relative min-h-screen overflow-hidden text-white">
 
-      {/* BACKGROUND */}
       <div
         className="absolute inset-0 bg-cover bg-center"
         style={{
@@ -65,7 +64,6 @@ export default function StreamersPage() {
 
       <div className="relative z-10">
 
-        {/* HERO */}
         <section className="py-24 text-center">
 
           <h1
@@ -86,10 +84,9 @@ export default function StreamersPage() {
 
         </section>
 
-        {/* CARDS */}
         <section className="max-w-7xl mx-auto px-8 pb-24">
 
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+          <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
 
             {streamers.map((streamer) => (
 
@@ -100,7 +97,6 @@ export default function StreamersPage() {
                 rel="noopener noreferrer"
                 className="
                   group
-                  w-full
                   bg-black/50
                   backdrop-blur-md
                   border
@@ -118,10 +114,9 @@ export default function StreamersPage() {
                   src={streamer.image}
                   alt={streamer.name}
                   className="
-                    block
                     w-full
-                    h-[520px]
-                    object-cover
+                    h-auto
+                    block
                   "
                 />
 
