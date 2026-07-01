@@ -36,7 +36,7 @@ export default function StreamersPage() {
       image: "/streamers/glitchedteddy.png",
       link: "https://www.twitch.tv/glitchedteddyttv",
     },
-   {
+    {
       name: "Ice",
       platform: "TikTok",
       image: "/streamers/ice.png",
@@ -86,10 +86,10 @@ export default function StreamersPage() {
 
         </section>
 
-        {/* STREAMER CARDS */}
+        {/* CARDS */}
         <section className="max-w-7xl mx-auto px-8 pb-24">
 
-          <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
 
             {streamers.map((streamer) => (
 
@@ -100,6 +100,7 @@ export default function StreamersPage() {
                 rel="noopener noreferrer"
                 className="
                   group
+                  w-full
                   bg-black/50
                   backdrop-blur-md
                   border
@@ -116,7 +117,12 @@ export default function StreamersPage() {
                 <img
                   src={streamer.image}
                   alt={streamer.name}
-                  className="w-full h-[520px] object-cover"
+                  className="
+                    block
+                    w-full
+                    h-[520px]
+                    object-cover
+                  "
                 />
 
                 <div className="p-6 text-center">
