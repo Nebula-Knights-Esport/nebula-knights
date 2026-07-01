@@ -135,16 +135,6 @@ export default function CommunityPage() {
               transition-opacity
               duration-300
             "
-          />
-
-          {/* BUTTON */}
-          <div
-            className="
-              absolute
-              bottom-6
-              left-1/2
-              -translate-x-1/2
-            "
           >
             <div
               className="
