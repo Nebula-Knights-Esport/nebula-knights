@@ -57,7 +57,7 @@ export default function JoinPage() {
               <input
                 type="hidden"
                 name="_next"
-                value="https://yourwebsite.com/thank-you"
+                value="https://nebulaknightsesports.co.za/thank-you"
               />
 
               <input
