@@ -23,7 +23,7 @@ export default function DivinityPage() {
     {
       gamertag: "Cyrus",
       role: "Slayer",
-      image: "/players/stingrays/player4.png",
+      image: "/players/stingrays/player5.png",
     },
   ];
 
