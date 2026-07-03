@@ -69,6 +69,14 @@ export default function JoinPage() {
               />
 
               <input
+                type="number"
+                name="Contact Number"
+                placeholder="Contact Number"
+                required
+                className="w-full bg-black/40 border border-purple-500/20 rounded-xl p-4"
+              />
+
+              <input
                 type="text"
                 name="Gaming Alias"
                 placeholder="Gaming Alias"
