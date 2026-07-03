@@ -6,7 +6,7 @@ export default function DivinityPage() {
       image: "/players/orion/player1.png",
     },
     {
-      gamertag: "Ynlexy",
+      gamertag: "(VC)Ynlexy",
       role: "Main Flex",
       image: "/players/orion/player2.png",
     },
@@ -67,7 +67,7 @@ export default function DivinityPage() {
           </h2>
 
           <p className="text-gray-300 leading-relaxed">
-            Orion ladies represent passion and drive. Learing everyday to become better players and teammates. 
+            Orion ladies represent passion and drive. Learning everyday to become better players and teammates. 
           </p>
 
         </section>
