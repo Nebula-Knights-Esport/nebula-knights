@@ -35,6 +35,14 @@ export default function NewsPage() {
         "Galaxia secured a victory in the first game of the Level za League, demonstrating their competitive spirit and taking the win 3-0 against Siren Eclips.",
       image: "/news/news5.png",
     },
+    {
+      title: "Warzone team shows of there skills in the Resurgance tournament",
+      date: "03 July 2026",
+      description:
+        "Warzone team demonstrated their prowess in the Resurgance tournament, showcasing their skills and determination.",
+      image: "/news/news6.png",
+    },
+    
   ];
 
   return (

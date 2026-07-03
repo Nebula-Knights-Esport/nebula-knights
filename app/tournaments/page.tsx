@@ -22,6 +22,15 @@ export default function TournamentPage() {
 
       hosted: false,
     },
+    {
+      title: "Resurgence Tournament",
+      image: "/tournaments/tournament3.png",
+
+      link:
+        "",
+
+      hosted: false,
+    },
 
   ];
 
