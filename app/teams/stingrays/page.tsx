@@ -13,7 +13,7 @@ export default function DivinityPage() {
     {
       gamertag: "Sneezy",
       role: "Flex",
-      image: "/players/stingrays/player3.png",
+      image: "/players/stingrays/player3.jpeg",
     },
     {
       gamertag: "Bravo-For-Real",

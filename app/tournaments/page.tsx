@@ -24,7 +24,7 @@ export default function TournamentPage() {
     },
     {
       title: "Resurgence Tournament",
-      image: "/tournaments/tournament3.png",
+      image: "/tournaments/tournament3.jpeg",
 
       link:
         "",
