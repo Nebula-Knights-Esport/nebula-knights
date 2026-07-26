@@ -1,6 +1,42 @@
 export default function TournamentPage() {
   const tournaments = [
     {
+      title: "Modern warfare Fundraiser",
+      image: "/tournaments/tournament3.png",
+
+      // Card click → Social / Tournament Page
+      link: "https://discord.gg/VAzDkGAhNX",
+
+      hosted: true,
+
+      // Join button
+      joinLink: "https://challonge.com/nebulaknightsmw3snipersonlyfundraiser",
+    },
+    {
+      title: "Black Ops 7 - Gunfighter- Fundraiser",
+      image: "/tournaments/tournament4.png",
+
+      // Card click → Social / Tournament Page
+      link: "https://discord.gg/VAzDkGAhNX",
+
+      hosted: true,
+
+      // Join button
+      joinLink: "https://challonge.com/nebulaknightsgunfighterfundraiser",
+    },
+    {
+      title: "Black Ops 7 - Sniper only- Fundraiser",
+      image: "/tournaments/tournament5.png",
+
+      // Card click → Social / Tournament Page
+      link: "https://discord.gg/VAzDkGAhNX",
+
+      hosted: true,
+
+      // Join button
+      joinLink: "https://challonge.com/nebulaknightssnipersonlyfundraiser",
+    },
+    {
       title: "Flow State FE",
       image: "/tournaments/tournament1.png",
 
@@ -19,15 +55,6 @@ export default function TournamentPage() {
 
       link:
         "https://www.levelupza.co.za/home",
-
-      hosted: false,
-    },
-    {
-      title: "Resurgence Tournament",
-      image: "/tournaments/tournament3.jpeg",
-
-      link:
-        "",
 
       hosted: false,
     },

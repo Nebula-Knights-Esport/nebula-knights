@@ -6,6 +6,11 @@ export default function CommunityPage() {
       link: "https://discord.gg/fp56mRv3zg",
     },
     {
+      name: "Discord",
+      image: "/socials/tournament.png",
+      link: "https://discord.gg/VAzDkGAhNX",
+    },
+    {
       name: "TikTok",
       image: "/socials/tiktok.png",
       link: "https://www.tiktok.com/@nebula_knights_esports?_r=1&_t=zs-93tbg3xvtns",
