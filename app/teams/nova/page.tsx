@@ -12,24 +12,34 @@ export default function DivinityPage() {
       image: "/players/nova/player2.png",
     },
     {
-      gamertag: "Otakuchingu",
+      gamertag: "Liliths Wrath",
       role: "Sniper",
       image: "/players/nova/player3.png",
     },
     {
-      gamertag: "Liliths Wrath",
+      gamertag: "K0y",
       role: "Sniper",
       image: "/players/nova/player4.png",
     },
     {
-      gamertag: "xX_Slay_Xx",
+      gamertag: "Suki",
       role: "Sniper",
       image: "/players/nova/player5.png",
+    },
+    {
+      gamertag: "xX_Slay_Xx",
+      role: "Sniper",
+      image: "/players/nova/player6.png",
+    },
+    {
+      gamertag: "Otakuchingu",
+      role: "Sniper",
+      image: "/players/nova/player8.png",
     },
      {
       gamertag: "slakkie01",
       role: "Sniper",
-      image: "/players/nova/player6.png",
+      image: "/players/nova/player9.png",
     },
   ];
 
