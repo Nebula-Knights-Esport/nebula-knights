@@ -34,21 +34,6 @@ teams: [
 ],
 },
 {
-title: "Female CDL",
-teams: [
-{ 
-  name: "Galaxia", 
-  logo: "/team-logos/galaxia.png",
-  link: "/teams/galaxia"
-},
-{ 
-  name: "Orion", 
-  logo: "/team-logos/orion.png", 
-  link: "/teams/orion" 
-},
-],
-},
-{
 title: "Male Snipers",
 teams: [
 { 
@@ -73,15 +58,6 @@ teams: [
 { name: "Nova", 
   logo: "/team-logos/nova.png", 
   link: "/teams/nova" 
-},
-],
-},
-{
-title: "Warzone",
-teams: [
-{ name: "Warzone Team", 
-  logo: "/team-logos/warzone.png", 
-  link: "/teams/warzone" 
 },
 ],
 },

@@ -190,39 +190,6 @@ export default function Home() {
       </div>
 
     </div>
-
-    {/* XYLAH */}
-<div className="group bg-black/60 backdrop-blur-md border border-purple-500/20 rounded-2xl overflow-hidden hover:border-cyan-500/60 hover:scale-105 transition-all duration-300">
-
-  <img
-    src="/founders/xylah.png"
-    alt="Xylah"
-    className="w-full h-80 object-cover"
-  />
-
-  <div className="p-5 text-center">
-
-    <h3
-      className="text-2xl font-bold"
-      style={{
-        background:
-          "linear-gradient(90deg,#38bdf8,#8b5cf6,#ec4899)",
-        WebkitBackgroundClip: "text",
-        WebkitTextFillColor: "transparent",
-      }}
-    >
-      XYLAH
-    </h3>
-
-    <p className="text-gray-300 mt-2">
-      Founder & CHRO
-    </p>
-
-
-  </div>
-
-</div>
-
 {/* FENR */}
 <div className="group bg-black/60 backdrop-blur-md border border-purple-500/20 rounded-2xl overflow-hidden hover:border-purple-500/60 hover:scale-105 transition-all duration-300">
 

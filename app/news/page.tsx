@@ -1,61 +1,13 @@
 export default function NewsPage() {
   const news = [
     {
-      title: "Annoucement of our fundraiser tournament",
-      date: "26 July 2026",
-      description:
-        "We are hosting three different tournaments in an effort to raise funds for our memeber that is in need of an urgent surgery.",
-      image: "/news/news7.png",
-    },
-    {
-      title: "Back a Buddy Fundraiser",
-      date: "20 July 2026",
-      description:
-        "We really want to help our community member who is in need of an urgent surgery. Please support our fundraiser and help us raise funds for this cause. Any help would be greatly appreciated. A share, a donation, or even just spreading the word can make a huge difference.",
-      image: "/news/news8.png",
-    },
-    {
       title: "Launching our new Website",
       date: "01 July 2026",
       description:
         "Nebula Knights has launched its new website, featuring updated information and a refreshed design.",
       image: "/news/news2.png",
     },
-    {
-      title: "Galaxia Take 2nd Place at EGL",
-      date: "21 June 2026",
-      description:
-        "Galaxia secured second place in the Amateur Division and showed incredible growth and teamwork.",
-      image: "/news/news1.png",
-    },
-    {
-      title: "Galaxia trophies at EGL",
-      date: "29 June 2026",
-      description:
-        "Galaxia has won multiple trophies at EGL, showcasing their skill and dedication.",
-      image: "/news/news3.png",
-    },
-    {
-      title: "Nebula Knights signed a new team",
-      date: "01 July 2026",
-      description:
-        "Nebula Knights has signed a new team for the upcoming season. Welcome to the family.",
-      image: "/news/news4.png",
-    },
-    {
-      title: "Galaxia wins the first game of the Level za League",
-      date: "01 July 2026",
-      description:
-        "Galaxia secured a victory in the first game of the Level za League, demonstrating their competitive spirit and taking the win 3-0 against Siren Eclips.",
-      image: "/news/news5.png",
-    },
-    {
-      title: "Warzone team shows of there skills in the Resurgance tournament",
-      date: "03 July 2026",
-      description:
-        "Warzone team demonstrated their prowess in the Resurgance tournament, showcasing their skills and determination.",
-      image: "/news/news6.png",
-    },
+   
     
   ];
 

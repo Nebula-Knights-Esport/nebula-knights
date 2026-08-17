@@ -11,11 +11,6 @@ export default function StaffPage() {
       image: "/founders/psyche.png",
     },
     {
-      alias: "Xylah",
-      role: "Founder & CHRO",
-      image: "/founders/xylah.png",
-    },
-    {
       alias: "Fenr",
       role: "Founder,COO & Eagles Captain",
       image: "/founders/fenr.png",
@@ -24,16 +19,6 @@ export default function StaffPage() {
       alias: "Zol",
       role: "Head of Sniper Division & Aces Captain",
       image: "/founders/zol.png",
-    },
-    {
-      alias: "Tazz",
-      role: "Coach",
-      image: "/founders/tazz.png",
-    },
-    {
-      alias: "Phoenix",
-      role: "Galaxia Captain",
-      image: "/founders/phoenix.png",
     },
     {
       alias: "MiniNinja",
@@ -56,11 +41,6 @@ export default function StaffPage() {
       image: "/founders/roosh.png",
     },
     {
-      alias: "Tekkie",
-      role: "Ghost Captain",
-      image: "/founders/tekkie.png",
-    },
-    {
       alias: "Slakkie",
       role: "Orion Captain",
       image: "/founders/slakkie.png",
@@ -69,11 +49,6 @@ export default function StaffPage() {
       alias: "Lucifer",
       role: "Phoenix Captain",
       image: "/founders/lucifer.png",
-    },
-    {
-      alias: "RAG3D_ZA",
-      role: "Warzone Captain",
-      image: "/founders/rag3d.png",
     },
   ];
 
