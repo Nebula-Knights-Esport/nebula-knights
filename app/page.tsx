@@ -190,6 +190,7 @@ export default function Home() {
       </div>
 
     </div>
+
 {/* FENR */}
 <div className="group bg-black/60 backdrop-blur-md border border-purple-500/20 rounded-2xl overflow-hidden hover:border-purple-500/60 hover:scale-105 transition-all duration-300">
 
